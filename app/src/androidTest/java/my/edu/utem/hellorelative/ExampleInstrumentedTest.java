@@ -1,4 +1,4 @@
-package my.edu.utem.hellotoast;
+package my.edu.utem.hellorelative;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("my.edu.utem.hellotoast", appContext.getPackageName());
+        assertEquals("my.edu.utem.hellorelative", appContext.getPackageName());
     }
 }

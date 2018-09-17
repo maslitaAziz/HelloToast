@@ -1,4 +1,4 @@
-package my.edu.utem.hellotoast;
+package my.edu.utem.hellorelative;
 
 import org.junit.Test;
 
